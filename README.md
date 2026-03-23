@@ -1,4 +1,4 @@
-# Daniyal-Insights
+# Daniyal-Ayaz-Insights
 Data Analyst portfolio with 6+ years of experience in SQL, Python, Power BI, Tableau, data analysis, data visualization, and business intelligence. Includes projects in data cleaning, statistical analysis, dashboard development, and reporting to deliver actionable insights and support data-driven decision-making.
 
 # Hi 👋, I'm Daniyal  
